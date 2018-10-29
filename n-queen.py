@@ -16,7 +16,7 @@ class QueenChessBoard:
  
     def is_this_column_safe_in_next_row(self, column):
         # index of next row
-        row = len(self.columns)
+        row = len(self.co lumns)
  
         # check column
         for queen_column in self.columns:

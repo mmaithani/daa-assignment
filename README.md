@@ -1,2 +1,2 @@
-# daa-assignment
-for now writng python code for n queeen problem 
+# DAA-assignment
+Source code for n queen problem 
